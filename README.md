@@ -1,4 +1,4 @@
-# 🌦 Weather Producer (QuixStreams → Kafka / Redpanda)
+# Weather Producer (QuixStreams → Kafka / Redpanda)
 
 This project runs a **Python streaming producer** that fetches real-time weather data from the **Open-Meteo API** and publishes it to a **Kafka-compatible broker (Redpanda)** every 5 minutes.
 
